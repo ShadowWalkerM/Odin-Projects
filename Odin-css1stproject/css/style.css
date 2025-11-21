@@ -95,7 +95,54 @@ header{
     margin-top: 10px;
 }
 
+.inspire {
+    background-color: #040e1c;
+    padding: 50px 0px;
+    margin: 40px 0px;
+}
 
+.inspirep {
+    font-size: 23px;
+    text-align: left;
+    margin: 0px auto; 
+    width: 600px;
+}
 
+.author {
+    margin-left: 760px;
+    font-size: 20px;
+    font-weight: bold;
+}
 
+.bot {
+    display: flex;
+    background: #040e1c;
+    justify-content: center;
+    margin: 0px auto;
+    width: fit-content;
+    padding: 20px 40px;
+}
+
+.boldbot{
+     font-size: 20px;
+     font-weight: bold;
+     margin-bottom: 10px;
+}
+
+.smallbot {
+    font-size: 15px;
+}
+
+.botbutton {
+    margin: auto 30px;
+}
+
+footer {
+    background-color: #040e1c;
+    text-align: center;
+    font-size: 14px;
+    opacity: 60%;
+    padding-top: 200px;
+    margin-top: 50px;
+}
 
