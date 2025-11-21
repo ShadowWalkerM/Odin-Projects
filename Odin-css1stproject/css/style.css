@@ -108,8 +108,15 @@ header{
     width: 600px;
 }
 
+.authorprison {
+    width: 550px;
+    margin: 0px auto; 
+    display: flex;
+    flex-direction: column;
+}
+
 .author {
-    margin-left: 760px;
+    align-self: flex-end;
     font-size: 20px;
     font-weight: bold;
 }
