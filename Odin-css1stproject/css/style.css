@@ -73,9 +73,29 @@ header{
     font-size: 26px;
     text-align: center;
     width: 650px;
-    margin: 20px auto ;
+    margin: 40px auto;
     font-style: italic;
 }
+
+.mid4tos {
+    display: flex;
+    justify-content:center ;
+    gap: 80px;
+    
+}
+
+.photo {
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+}
+
+.photodis {
+    width: 250px;
+    margin-top: 10px;
+}
+
+
 
 
 
